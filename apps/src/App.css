@@ -1,0 +1,71 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+.full{
+  background-image: url("https://previews.123rf.com/images/ozimician/ozimician1511/ozimician151100003/48008511-young-adult-man-showing-back-of-body-while-posing-in-gym.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-attachment: fixed;
+}
+
+.clrchange{
+  color: rgb(5, 5, 105);
+}
+
+.third{
+  background-image: url("https://i0.wp.com/homeandabroadfit.com/wp-content/uploads/2020/06/advanced-pushups-man-performing-wide-stance-one-arm-pushup.jpg?resize=800%2C533&ssl=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-attachment: fixed;
+}
+.clrchange2{
+  color: rgb(8, 8, 124);
+}
+.baradiv{
+  background-color: darkblue;
+}
+.footerr{
+  background-image: url("https://i0.wp.com/homeandabroadfit.com/wp-content/uploads/2020/06/advanced-pushups-man-performing-wide-stance-one-arm-pushup.jpg?resize=800%2C533&ssl=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40vh;
+  background-attachment: fixed;
+}
